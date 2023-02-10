@@ -5,11 +5,6 @@
   "expanded": "Doping-substance",
   "predicates": [
     {
-      "value": "SUBSTANCES NON APPROUVÉES",
-      "expanded": "SUBSTANCES NON APPROUVÉES",
-      "description": "Toute substance pharmacologique non incluse dans une section de la Liste ci-dessous et qui n’est pas actuellement approuvée pour une utilisation thérapeutique chez l’Homme par une autorité gouvernementale réglementaire de la santé (par ex. médicaments en développement préclinique ou clinique ou médicaments discontinués, médicaments à façon, substances approuvées seulement pour usage vétérinaire) est interdite en permanence."
-    },
-    {
       "value": "AGENTS ANABOLISANTS",
       "expanded": "AGENTS ANABOLISANTS",
       "description": "Les agents anabolisants sont interdits."
@@ -68,11 +63,6 @@
       "value": "GLUCOCORTICOÏDES",
       "expanded": "GLUCOCORTICOÏDES",
       "description": "Tous les glucocorticoïdes sont interdits lorsqu’ils sont administrés par toute voie injectable, orale [incluant\noromuqueuse (par ex. buccale, gingivale, sublinguale)], ou rectale."
-    },
-    {
-      "value": "BÊTABLOQUANTS",
-      "expanded": "BÊTABLOQUANTS",
-      "description": "Les bêtabloquants sont interdits en compétition seulement, dans les sports suivants, et aussi interdits hors compétition lorsqu’indiqué (*)."
     }
   ],
   "values": [
@@ -1194,127 +1184,6 @@
         {
           "value": "triamcinolone acétonide",
           "expanded": "triamcinolone acétonide"
-        }
-      ]
-    },
-    {
-      "predicate": "BÊTABLOQUANTS",
-      "entry": [
-        {
-          "value": "Automobile (FIA)",
-          "expanded": "Automobile (FIA)"
-        },
-        {
-          "value": "Billard (toutes les disciplines) (WCBS)",
-          "expanded": "Billard (toutes les disciplines) (WCBS)"
-        },
-        {
-          "value": "Fléchettes (WDF)",
-          "expanded": "Fléchettes (WDF)"
-        },
-        {
-          "value": "Golf (IGF)",
-          "expanded": "Golf (IGF)"
-        },
-        {
-          "value": "Mini-Golf (WMF)",
-          "expanded": "Mini-Golf (WMF)"
-        },
-        {
-          "value": "Ski (FIS) pour le saut à ski, le saut freestyle/\n\thalfpipe et le snowboard halfpipe/big air",
-          "expanded": "Ski (FIS) pour le saut à ski, le saut freestyle/\n\thalfpipe et le snowboard halfpipe/big air"
-        },
-        {
-          "value": "Sports subaquatiques (CMAS)* pour toutes les\n\tsous-disciplines de plongée libre, la chasse sousmarine et le tir sur cible",
-          "expanded": "Sports subaquatiques (CMAS)* pour toutes les\n\tsous-disciplines de plongée libre, la chasse sousmarine et le tir sur cible"
-        },
-        {
-          "value": "Tir (ISSF, IPC)*",
-          "expanded": "Tir (ISSF, IPC)*"
-        },
-        {
-          "value": "Tir à l’arc (WA)* ",
-          "expanded": "Tir à l’arc (WA)* "
-        },
-        {
-          "value": "acébutolol",
-          "expanded": "acébutolol"
-        },
-        {
-          "value": "alprénolol",
-          "expanded": "alprénolol"
-        },
-        {
-          "value": "aténolol",
-          "expanded": "aténolol"
-        },
-        {
-          "value": "bétaxolol",
-          "expanded": "bétaxolol"
-        },
-        {
-          "value": "bisoprolol",
-          "expanded": "bisoprolol"
-        },
-        {
-          "value": "bunolol",
-          "expanded": "bunolol"
-        },
-        {
-          "value": "cartéolol",
-          "expanded": "cartéolol"
-        },
-        {
-          "value": "carvédilol",
-          "expanded": "carvédilol"
-        },
-        {
-          "value": "céliprolol",
-          "expanded": "céliprolol"
-        },
-        {
-          "value": "esmolol",
-          "expanded": "esmolol"
-        },
-        {
-          "value": "labétalol",
-          "expanded": "labétalol"
-        },
-        {
-          "value": "métipranolol",
-          "expanded": "métipranolol"
-        },
-        {
-          "value": "métoprolol",
-          "expanded": "métoprolol"
-        },
-        {
-          "value": "nadolol",
-          "expanded": "nadolol"
-        },
-        {
-          "value": "nébivolol",
-          "expanded": "nébivolol"
-        },
-        {
-          "value": "oxprénolol",
-          "expanded": "oxprénolol"
-        },
-        {
-          "value": "pindolol",
-          "expanded": "pindolol"
-        },
-        {
-          "value": "propranolol",
-          "expanded": "propranolol"
-        },
-        {
-          "value": "sotalol",
-          "expanded": "sotalol"
-        },
-        {
-          "value": "timolol",
-          "expanded": "timolol"
         }
       ]
     }
