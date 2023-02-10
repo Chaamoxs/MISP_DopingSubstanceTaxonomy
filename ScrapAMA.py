@@ -6,21 +6,34 @@ from bs4 import BeautifulSoup
 import json
 
 #attention au sauf
-#dernier prédicat -> faut changer ça met des noms de sports parce que c'est dans des <li>
+
+#ignore = liste des catégories qu'on veut pas 
+
+ignore = []
+ignore = ['BÊTABLOQUANTS', 'SUBSTANCES NON APPROUVÉES']
+#Betabloquant = pas interdit pour tous les sports
+#Substance non appouvées = pas interressant
 
 def listePredicats(article):
     liste={}
     for art in article:
         titre = art.find('p', attrs={"class":"h3 panel-title"})
-        pred = Predicate()
-        pred.predicate = titre.text
-        pred.expanded = titre.text
-        div = art.find('div', attrs={"class":"layout-wysiwyg"})
-        #print(div.text)
-        descrip = div.find('p')
-        #print(descrip.text)
-        pred.description = descrip.find_next_sibling().text
-        liste.update({titre.text : pred})
+        presenceIgnore = False
+        for i in ignore:
+            if titre.text == i:
+                presenceIgnore = True
+                #print("on ignore pas" + titre.text)
+            #else:
+                #print("pasla")
+
+        if not presenceIgnore:
+            pred = Predicate()
+            pred.predicate = titre.text
+            pred.expanded = titre.text
+            div = art.find('div', attrs={"class":"layout-wysiwyg"})
+            descrip = div.find('p')
+            pred.description = descrip.find_next_sibling().text
+            liste.update({titre.text : pred})
     return liste
 
 new_taxonomy = Taxonomy()
@@ -39,19 +52,24 @@ article = soup.findAll('article', attrs={"class":"panel hide-reader"})
 new_taxonomy.predicates = listePredicats(article)
 
 for art in article:
-    #categorie = art.find('div', attrs={"class":"list-img"})
-    #print(categorie.text.lstrip().strip())
+
     titre = art.find('p', attrs={"class":"h3 panel-title"})
-    #print(titre.text)
-    produits = art.findAll('li')
-    listeProduits={}
-    for prod in produits:
-        entree = Entry()
-        entree.value=prod.text
-        entree.expanded=prod.text
-        listeProduits.update({entree.value : entree})
+    presenceIgnore = False
+    for i in ignore:
+        if titre.text == i:
+            presenceIgnore = True
+
+    if not presenceIgnore:
+        produits = art.findAll('li')
+        listeProduits={}
+        for prod in produits:
+            entree = Entry()
+            entree.value=prod.text
+            entree.expanded=prod.text
+            listeProduits.update({entree.value : entree})
+            
+            new_taxonomy.predicates[titre.text].entries=listeProduits
     
-    new_taxonomy.predicates[titre.text].entries=listeProduits
 
 #print(new_taxonomy.to_json())
 
