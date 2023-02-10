@@ -8,7 +8,6 @@ import json
 #attention au sauf
 #dernier prédicat -> faut changer ça met des noms de sports parce que c'est dans des <li>
 
-
 def listePredicats(article):
     liste={}
     for art in article:
@@ -19,7 +18,7 @@ def listePredicats(article):
         div = art.find('div', attrs={"class":"layout-wysiwyg"})
         #print(div.text)
         descrip = div.find('p')
-        print(descrip.text)
+        #print(descrip.text)
         pred.description = descrip.find_next_sibling().text
         liste.update({titre.text : pred})
     return liste
@@ -55,5 +54,7 @@ for art in article:
     new_taxonomy.predicates[titre.text].entries=listeProduits
 
 #print(new_taxonomy.to_json())
-with open('../../machinetag.json', 'wt', encoding='utf-8') as f:
+
+#création du JSON
+with open('machinetag.json', 'wt', encoding='utf-8') as f:
     json.dump(new_taxonomy.to_dict(), f, indent=2, ensure_ascii=False)
