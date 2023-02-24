@@ -35,4 +35,9 @@ Finally, the script generates all predicates (doping categories) and the entries
 
 ## Installation
 
+If you want to try it out yourself, you need to have both BeautifulSoup & PyTaxonomies installated.
+
 ## Authors
+
+DELUS Thibaut : https://github.com/WooZyhh
+JACOB Lucas : https://github.com/Chaamoxs
