@@ -10,6 +10,8 @@ This Taxonomy could be add in MISP to help sports organizations to fight against
 
 ## MISP
 
+![logo](Misp-logo.png)
+
 What is MISP ?
 
 >A threat intelligence platform for sharing, storing and correlating 
