@@ -10,7 +10,7 @@ import json
 #ignore = liste des catégories qu'on veut pas 
 
 ignore = []
-ignore = ['BÊTABLOQUANTS', 'SUBSTANCES NON APPROUVÉES']
+ignore = ['BETA-BLOCKERS', 'NON-APPROVED SUBSTANCES']
 #Betabloquant = pas interdit pour tous les sports
 #Substance non appouvées = pas interressant
 
@@ -22,14 +22,11 @@ def listePredicats(article):
         for i in ignore:
             if titre.text == i:
                 presenceIgnore = True
-                #print("on ignore pas" + titre.text)
-            #else:
-                #print("pasla")
 
         if not presenceIgnore:
             pred = Predicate()
             pred.predicate = titre.text
-            pred.expanded = titre.text
+            #pred.expanded = titre.text
             div = art.find('div', attrs={"class":"layout-wysiwyg"})
             descrip = div.find('p')
             pred.description = descrip.find_next_sibling().text
@@ -43,7 +40,7 @@ new_taxonomy.description = "This taxonomy aims to list doping-substance"
 new_taxonomy.version = 1
 new_taxonomy.expanded = "Doping-substance"
 
-response = requests.get("https://www.wada-ama.org/fr/liste-des-interdictions?")
+response = requests.get("https://www.wada-ama.org/en/prohibited-list")
 
 soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -65,9 +62,8 @@ for art in article:
         for prod in produits:
             entree = Entry()
             entree.value=prod.text
-            entree.expanded=prod.text
+            #entree.expanded=prod.text
             listeProduits.update({entree.value : entree})
-            
             new_taxonomy.predicates[titre.text].entries=listeProduits
     
 

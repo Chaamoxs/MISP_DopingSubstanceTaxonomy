@@ -5,725 +5,554 @@
   "expanded": "Doping-substance",
   "predicates": [
     {
-      "value": "AGENTS ANABOLISANTS",
-      "expanded": "AGENTS ANABOLISANTS",
-      "description": "Les agents anabolisants sont interdits."
+      "value": "ANABOLIC AGENTS",
+      "description": "Anabolic agents are prohibited."
     },
     {
-      "value": "HORMONES PEPTIQUES, FACTEURS DE CROISSANCE, SUBSTANCES APPARENTÉES ET MIMÉTIQUES",
-      "expanded": "HORMONES PEPTIQUES, FACTEURS DE CROISSANCE, SUBSTANCES APPARENTÉES ET MIMÉTIQUES",
-      "description": "Les substances qui suivent, et les autres substances possédant une structure chimique similaire ou un (des) effet(s) biologique(s) similaire(s), sont interdites."
+      "value": "PEPTIDE HORMONES, GROWTH FACTORS, RELATED SUBSTANCES AND MIMETICS",
+      "description": "The following substances, and other substances with similar chemical structure or similar biological effect(s), are prohibited:"
     },
     {
-      "value": "BÊTA-2 AGONISTES",
-      "expanded": "BÊTA-2 AGONISTES",
-      "description": "Tous les bêta-2 agonistes sélectifs et non sélectifs, y compris tous leurs isomères optiques, sont interdits."
+      "value": "BETA-2 AGONISTS",
+      "description": "All selective and non-selective beta-2 agonists, including all optical isomers, are prohibited."
     },
     {
-      "value": "MODULATEURS HORMONAUX ET MÉTABOLIQUES",
-      "expanded": "MODULATEURS HORMONAUX ET MÉTABOLIQUES",
-      "description": "Les hormones et modulateurs hormonaux suivants sont interdits."
+      "value": "HORMONE AND METABOLIC MODULATORS",
+      "description": "The following hormone and metabolic modulators are prohibited."
     },
     {
-      "value": "DIURÉTIQUES ET AGENTS MASQUANTS",
-      "expanded": "DIURÉTIQUES ET AGENTS MASQUANTS",
-      "description": "Tous les diurétiques et agents masquants, y compris tous leurs isomères optiques, par ex. d- et l- s’il y a lieu, sont interdits."
+      "value": "DIURETICS AND MASKING AGENTS",
+      "description": "All diuretics and masking agents, including all optical isomers, e.g. d- and l- where relevant,\nare prohibited."
     },
     {
-      "value": "MANIPULATION DE SANG OU DE COMPOSANTS SANGUINS",
-      "expanded": "MANIPULATION DE SANG OU DE COMPOSANTS SANGUINS",
-      "description": "Ce qui suit est interdit :"
+      "value": "MANIPULATION OF BLOOD AND BLOOD COMPONENTS",
+      "description": "The following are prohibited:"
     },
     {
-      "value": "MANIPULATION CHIMIQUE ET PHYSIQUE",
-      "expanded": "MANIPULATION CHIMIQUE ET PHYSIQUE",
-      "description": "Ce qui suit est interdit :"
+      "value": "CHEMICAL AND PHYSICAL MANIPULATION",
+      "description": "The following are prohibited:"
     },
     {
-      "value": "DOPAGE GÉNÉTIQUE ET CELLULAIRE",
-      "expanded": "DOPAGE GÉNÉTIQUE ET CELLULAIRE",
-      "description": "Ce qui suit, ayant la capacité potentielle d’améliorer la performance sportive, est interdit :"
+      "value": "GENE AND CELL DOPING",
+      "description": "The following, with the potential to enhance sport performance, are prohibited:"
     },
     {
       "value": "STIMULANTS",
-      "expanded": "STIMULANTS",
-      "description": "Les substances d’abus de cette section sont : cocaïne et méthylènedioxyméthamphétamine (MDMA/« ecstasy »)."
+      "description": "Substances of Abuse in this section: cocaine and methylenedioxymethamphetamine (MDMA / “ecstasy”)."
     },
     {
-      "value": "NARCOTIQUES",
-      "expanded": "NARCOTIQUES",
-      "description": "Les narcotiques suivants, y compris tous leurs isomères optiques, par ex. d- et l s’il y a lieu, sont interdits :"
+      "value": "NARCOTICS",
+      "description": "The following narcotics, including all optical isomers, e.g. d- and l- where relevant, are prohibited."
     },
     {
-      "value": "CANNABINOÏDES",
-      "expanded": "CANNABINOÏDES",
-      "description": "TOUS LES CANNABINOÏDES NATURELS ET SYNTHÉTIQUES SONT INTERDITS, PAR EX. :"
+      "value": "CANNABINOIDS",
+      "description": " "
     },
     {
-      "value": "GLUCOCORTICOÏDES",
-      "expanded": "GLUCOCORTICOÏDES",
-      "description": "Tous les glucocorticoïdes sont interdits lorsqu’ils sont administrés par toute voie injectable, orale [incluant\noromuqueuse (par ex. buccale, gingivale, sublinguale)], ou rectale."
+      "value": "GLUCOCORTICOIDS",
+      "description": "\nAll glucocorticoids are prohibited when administered by any injectable, oral [including oromucosal (e.g. buccal, gingival, sublingual)] or rectal route."
     }
   ],
   "values": [
     {
-      "predicate": "AGENTS ANABOLISANTS",
+      "predicate": "ANABOLIC AGENTS",
       "entry": [
         {
-          "value": "1-androstènediol (5α-androst-1-ène-3β,17β- diol)",
-          "expanded": "1-androstènediol (5α-androst-1-ène-3β,17β- diol)"
+          "value": "1-Androstenediol (5α-androst-1-ene-3β, 17β-diol)"
         },
         {
-          "value": "1-androstènedione (5α-androst-1-ène-3,17- dione)",
-          "expanded": "1-androstènedione (5α-androst-1-ène-3,17- dione)"
+          "value": "1-Androstenedione (5α-androst-1-ene-3, 17-dione)"
         },
         {
-          "value": "1-androstérone (3α-hydroxy-5α-androst-1- ène-17-one)",
-          "expanded": "1-androstérone (3α-hydroxy-5α-androst-1- ène-17-one)"
+          "value": "1-Androsterone (3α-hydroxy-5α-androst-1- ene-17-one)"
         },
         {
-          "value": "1-épiandrostérone (3β-hydroxy-5α-androst- ène-17-one)",
-          "expanded": "1-épiandrostérone (3β-hydroxy-5α-androst- ène-17-one)"
+          "value": "1-Epiandrosterone (3β-hydroxy-5α-androst- 1-ene-17-one)"
         },
         {
-          "value": "1-testostérone (17β-hydroxy-5α-androst-1- ène-3-one)",
-          "expanded": "1-testostérone (17β-hydroxy-5α-androst-1- ène-3-one)"
+          "value": "1-Testosterone (17β-hydroxy-5α-androst-1- en-3-one)"
         },
         {
-          "value": "4-androstènediol (androst-4-ène-3β,17β-diol)",
-          "expanded": "4-androstènediol (androst-4-ène-3β,17β-diol)"
+          "value": "4-Androstenediol (androst-4-ene-3β,17β- diol)"
         },
         {
-          "value": "4-hydroxytestostérone (4,17β-dihydroxyandrost-4-ène-3-one)",
-          "expanded": "4-hydroxytestostérone (4,17β-dihydroxyandrost-4-ène-3-one)"
+          "value": "4-Hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one)"
         },
         {
-          "value": "5-androstènedione (androst-5-ène-3,17-dione)",
-          "expanded": "5-androstènedione (androst-5-ène-3,17-dione)"
+          "value": "5-Androstenedione (androst-5-ene-3,17- dione)"
         },
         {
-          "value": "7α-hydroxy-DHEA",
-          "expanded": "7α-hydroxy-DHEA"
+          "value": "7α-hydroxy-DHEA"
         },
         {
-          "value": "7β-hydroxy-DHEA",
-          "expanded": "7β-hydroxy-DHEA"
+          "value": "7β-hydroxy-DHEA"
         },
         {
-          "value": "7-céto-DHEA",
-          "expanded": "7-céto-DHEA"
+          "value": "7-Keto-DHEA"
         },
         {
-          "value": "17ɑ-méthylépithiostanol (épistane)",
-          "expanded": "17ɑ-méthylépithiostanol (épistane)"
+          "value": "17α-methylepithiostanol (epistane)"
         },
         {
-          "value": "19-norandrostènediol (estr-4-ène-3,17-diol)",
-          "expanded": "19-norandrostènediol (estr-4-ène-3,17-diol)"
+          "value": "19-Norandrostenediol  (estr-4-ene-3,17-diol)"
         },
         {
-          "value": "19-norandrostènedione (estr-4-ène-3,17- dione)",
-          "expanded": "19-norandrostènedione (estr-4-ène-3,17- dione)"
+          "value": "19-Norandrostenedione (estr-4-ene-3,17- dione)"
         },
         {
-          "value": "androst-4-ène-3,11,17- trione (11-cétoandrostènedione, adrénostérone)",
-          "expanded": "androst-4-ène-3,11,17- trione (11-cétoandrostènedione, adrénostérone)"
+          "value": "Androst-4-ene-3,11,17-trione (11-ketoandrostenedione, adrenosterone)"
         },
         {
-          "value": "androstanolone (5α-dihydrotestostérone, 17β-hydroxy-5α-androstan-3-one)",
-          "expanded": "androstanolone (5α-dihydrotestostérone, 17β-hydroxy-5α-androstan-3-one)"
+          "value": "Androstanolone (5α-dihydrotestosterone, 17β-hydroxy-5α-androstan-3-one)"
         },
         {
-          "value": "androstènediol (androst-5-ène-3β,17β-diol)",
-          "expanded": "androstènediol (androst-5-ène-3β,17β-diol)"
+          "value": "Androstenediol (androst-5-ene-3β,17β-diol)"
         },
         {
-          "value": "androstènedione (androst-4-ène-3,17-dione)",
-          "expanded": "androstènedione (androst-4-ène-3,17-dione)"
+          "value": "Androstenedione (androst-4-ene-3,17- dione)"
         },
         {
-          "value": "bolastérone",
-          "expanded": "bolastérone"
+          "value": "Bolasterone"
         },
         {
-          "value": "boldénone",
-          "expanded": "boldénone"
+          "value": "Boldenone"
         },
         {
-          "value": "boldione (androsta-1,4-diène-3,17-dione)",
-          "expanded": "boldione (androsta-1,4-diène-3,17-dione)"
+          "value": "Boldione (androsta-1,4-diene-3,17-dione)"
         },
         {
-          "value": "calustérone",
-          "expanded": "calustérone"
+          "value": "Calusterone"
         },
         {
-          "value": "clostébol",
-          "expanded": "clostébol"
+          "value": "Clostebol"
         },
         {
-          "value": "danazol ([1,2]oxazolo[4’,5’:2,3]prégna-4-ène- 20-yn-17α-ol)",
-          "expanded": "danazol ([1,2]oxazolo[4’,5’:2,3]prégna-4-ène- 20-yn-17α-ol)"
+          "value": "Danazol ([1,2]oxazolo[4’,5’:2,3]pregna-4-en- 20-yn-17α-ol)"
         },
         {
-          "value": "déhydrochlorméthyltestostérone (4-chloro- 17β-hydroxy-17α-méthylandrosta-1,4-diène- 3-one)",
-          "expanded": "déhydrochlorméthyltestostérone (4-chloro- 17β-hydroxy-17α-méthylandrosta-1,4-diène- 3-one)"
+          "value": "Dehydrochlormethyltestosterone (4-chloro- 17β-hydroxy-17α-methylandrosta-1,4-dien- 3-one)"
         },
         {
-          "value": "désoxyméthyltestostérone (17α-méthyl-5α- androst-2-ène-17β-ol et 17α-méthyl-5α- androst-3-ène-17β-ol)",
-          "expanded": "désoxyméthyltestostérone (17α-méthyl-5α- androst-2-ène-17β-ol et 17α-méthyl-5α- androst-3-ène-17β-ol)"
+          "value": "Desoxymethyltestosterone (17α-methyl-5α- androst-2-en-17β-ol and 17α-methyl-5α- androst-3-en-17β-ol)"
         },
         {
-          "value": "drostanolone",
-          "expanded": "drostanolone"
+          "value": "Drostanolone"
         },
         {
-          "value": "épiandrostérone (3β-hydroxy-5α-androstane- 17-one)",
-          "expanded": "épiandrostérone (3β-hydroxy-5α-androstane- 17-one)"
+          "value": "Epiandrosterone (3β-hydroxy-5α-androstan- 17-one)"
         },
         {
-          "value": "épi-dihydrotestostérone (17β-hydroxy-5β- androstane-3-one)",
-          "expanded": "épi-dihydrotestostérone (17β-hydroxy-5β- androstane-3-one)"
+          "value": "Epi-dihydrotestosterone (17β-hydroxy-5β- androstan-3-one)"
         },
         {
-          "value": "épitestostérone",
-          "expanded": "épitestostérone"
+          "value": "Epitestosterone"
         },
         {
-          "value": "éthylestrénol (19-norprégna-4-ène-17α-ol)",
-          "expanded": "éthylestrénol (19-norprégna-4-ène-17α-ol)"
+          "value": "Ethylestrenol  (19-norpregna-4-en-17α-ol)"
         },
         {
-          "value": "fluoxymestérone",
-          "expanded": "fluoxymestérone"
+          "value": "Fluoxymesterone"
         },
         {
-          "value": "formébolone",
-          "expanded": "formébolone"
+          "value": "Formebolone"
         },
         {
-          "value": "furazabol (17α-méthyl[1,2,5] oxadiazolo[3’,4’:2,3]-5α-androstane-17β-ol)",
-          "expanded": "furazabol (17α-méthyl[1,2,5] oxadiazolo[3’,4’:2,3]-5α-androstane-17β-ol)"
+          "value": "Furazabol (17α-methyl [1,2,5] oxadiazolo[3’,4’:2,3]-5α-androstan-17β-ol)"
         },
         {
-          "value": "gestrinone",
-          "expanded": "gestrinone"
+          "value": "Gestrinone"
         },
         {
-          "value": "mestanolone",
-          "expanded": "mestanolone"
+          "value": "Mestanolone"
         },
         {
-          "value": "mestérolone",
-          "expanded": "mestérolone"
+          "value": "Mesterolone"
         },
         {
-          "value": "métandiénone (17β-hydroxy-17α- méthylandrosta-1,4-diène-3-one)",
-          "expanded": "métandiénone (17β-hydroxy-17α- méthylandrosta-1,4-diène-3-one)"
+          "value": "Metandienone (17β-hydroxy-17α- methylandrosta-1,4-dien-3-one)"
         },
         {
-          "value": "méténolone",
-          "expanded": "méténolone"
+          "value": "Metenolone"
         },
         {
-          "value": "méthandriol",
-          "expanded": "méthandriol"
+          "value": "Methandriol"
         },
         {
-          "value": "méthastérone (17β-hydroxy-2α,17α-diméthyl-5α-androstane-3-one)",
-          "expanded": "méthastérone (17β-hydroxy-2α,17α-diméthyl-5α-androstane-3-one)"
+          "value": "Methasterone (17β-hydroxy-2α,17α- dimethyl-5α-androstan-3-one)"
         },
         {
-          "value": "méthyl-1-testostérone (17β-hydroxy-17α- méthyl-5α-androst-1-ène-3-one)",
-          "expanded": "méthyl-1-testostérone (17β-hydroxy-17α- méthyl-5α-androst-1-ène-3-one)"
+          "value": "Methyl-1-testosterone (17β-hydroxy-17α- methyl-5α-androst-1-en-3-one)"
         },
         {
-          "value": "méthylclostébol",
-          "expanded": "méthylclostébol"
+          "value": "Methylclostebol"
         },
         {
-          "value": "méthyldiénolone (17β-hydroxy-17α- méthylestra-4,9-diène-3-one)",
-          "expanded": "méthyldiénolone (17β-hydroxy-17α- méthylestra-4,9-diène-3-one)"
+          "value": "Methyldienolone (17β-hydroxy-17α- methylestra-4,9-dien-3-one)"
         },
         {
-          "value": "méthylnortestostérone (17β-hydroxy-17α- méthylestr-4-en-3-one)",
-          "expanded": "méthylnortestostérone (17β-hydroxy-17α- méthylestr-4-en-3-one)"
+          "value": "Methylnortestosterone (17β-hydroxy-17α- methylestr-4-en-3-one)"
         },
         {
-          "value": "méthyltestostérone",
-          "expanded": "méthyltestostérone"
+          "value": "Methyltestosterone"
         },
         {
-          "value": "métribolone (méthyltriènolone, 17β-hydroxy- 17α-méthylestra-4,9,11-triène-3-one)",
-          "expanded": "métribolone (méthyltriènolone, 17β-hydroxy- 17α-méthylestra-4,9,11-triène-3-one)"
+          "value": "Metribolone (methyltrienolone, 17β-hydroxy- 17α-methylestra-4,9,11-trien-3-one)"
         },
         {
-          "value": "mibolérone",
-          "expanded": "mibolérone"
+          "value": "Mibolerone"
         },
         {
-          "value": "nandrolone (19-nortestostérone)",
-          "expanded": "nandrolone (19-nortestostérone)"
+          "value": "Nandrolone (19-nortestosterone)"
         },
         {
-          "value": "norbolétone",
-          "expanded": "norbolétone"
+          "value": "Norboletone"
         },
         {
-          "value": "norclostébol (4-chloro-17β-ol-est-4-ène-3-one)",
-          "expanded": "norclostébol (4-chloro-17β-ol-est-4-ène-3-one)"
+          "value": "Norclostebol (4-chloro-17β-ol-estr-4-en-3- one)"
         },
         {
-          "value": "noréthandrolone",
-          "expanded": "noréthandrolone"
+          "value": "Norethandrolone"
         },
         {
-          "value": "oxabolone",
-          "expanded": "oxabolone"
+          "value": "Oxabolone"
         },
         {
-          "value": "oxandrolone",
-          "expanded": "oxandrolone"
+          "value": "Oxandrolone"
         },
         {
-          "value": "oxymestérone",
-          "expanded": "oxymestérone"
+          "value": "Oxymesterone"
         },
         {
-          "value": "oxymétholone",
-          "expanded": "oxymétholone"
+          "value": "Oxymetholone"
         },
         {
-          "value": "prastérone (déhydroépiandrostérone, DHEA, 3β-hydroxyandrost-5-ène-17-one)",
-          "expanded": "prastérone (déhydroépiandrostérone, DHEA, 3β-hydroxyandrost-5-ène-17-one)"
+          "value": "Prasterone (dehydroepiandrosterone, DHEA, 3β-hydroxyandrost-5-en-17-one)"
         },
         {
-          "value": "prostanozol (17β-[(tétrahydropyrane-2-yl)oxy]- 1’H-pyrazolo[3,4:2,3]-5α-androstane)",
-          "expanded": "prostanozol (17β-[(tétrahydropyrane-2-yl)oxy]- 1’H-pyrazolo[3,4:2,3]-5α-androstane)"
+          "value": "Prostanozol (17β-[(tetrahydropyran-2-yl) oxy]-1’H-pyrazolo[3,4:2,3]-5α-androstane)"
         },
         {
-          "value": "quinbolone",
-          "expanded": "quinbolone"
+          "value": "Quinbolone"
         },
         {
-          "value": "stanozolol",
-          "expanded": "stanozolol"
+          "value": "Stanozolol"
         },
         {
-          "value": "stenbolone",
-          "expanded": "stenbolone"
+          "value": "Stenbolone"
         },
         {
-          "value": "testostérone",
-          "expanded": "testostérone"
+          "value": "Testosterone"
         },
         {
-          "value": "tétrahydrogestrinone (17-hydroxy-18a-homo-19-nor-17ɑ-prégna-4,9,11-triène-3-one)",
-          "expanded": "tétrahydrogestrinone (17-hydroxy-18a-homo-19-nor-17ɑ-prégna-4,9,11-triène-3-one)"
+          "value": "Tetrahydrogestrinone (17-hydroxy-18a- homo-19-nor-17α-pregna-4,9,11-trien-3- one)"
         },
         {
-          "value": "tibolone",
-          "expanded": "tibolone"
+          "value": "Tibolone"
         },
         {
-          "value": "trenbolone (17β-hydroxyestr-4,9,11-triène-3- one)\n et autres substances possédant une structure chimique similaire ou un (des) effet(s) biologique(s) similaire(s).",
-          "expanded": "trenbolone (17β-hydroxyestr-4,9,11-triène-3- one)\n et autres substances possédant une structure chimique similaire ou un (des) effet(s) biologique(s) similaire(s)."
+          "value": "Trenbolone (17β-hydroxyestr-4,9,11-trien-3- one)\n\tand other substances with a similar chemical structure or similar biological effect(s)."
         },
         {
-          "value": "clenbutérol",
-          "expanded": "clenbutérol"
+          "value": "Clenbuterol"
         },
         {
-          "value": "modulateurs sélectifs des récepteurs aux androgènes [SARMs par ex. andarine, enobosarm (ostarine), LGD-4033 (ligandrol), RAD140, S-23 et YK-11]",
-          "expanded": "modulateurs sélectifs des récepteurs aux androgènes [SARMs par ex. andarine, enobosarm (ostarine), LGD-4033 (ligandrol), RAD140, S-23 et YK-11]"
+          "value": "Osilodrostat"
         },
         {
-          "value": "osilodrostat",
-          "expanded": "osilodrostat"
+          "value": "Ractopamine"
         },
         {
-          "value": "ractopamine",
-          "expanded": "ractopamine"
+          "value": "Selective androgen receptor modulators [SARMs, e.g. andarine, enobosarm (ostarine), LGD-4033 (ligandrol), RAD140, S-23 and YK-11]"
         },
         {
-          "value": "zéranol",
-          "expanded": "zéranol"
+          "value": "Zeranol"
         },
         {
-          "value": "zilpatérol",
-          "expanded": "zilpatérol"
+          "value": "Zilpaterol"
         }
       ]
     },
     {
-      "predicate": "HORMONES PEPTIQUES, FACTEURS DE CROISSANCE, SUBSTANCES APPARENTÉES ET MIMÉTIQUES",
+      "predicate": "PEPTIDE HORMONES, GROWTH FACTORS, RELATED SUBSTANCES AND MIMETICS",
       "entry": [
         {
-          "value": "darbépoétine (dEPO)",
-          "expanded": "darbépoétine (dEPO)"
+          "value": "Darbepoetins (dEPO)"
         },
         {
-          "value": "érythropoïétines (EPO) ",
-          "expanded": "érythropoïétines (EPO) "
+          "value": "Erythropoietins (EPO)"
         },
         {
-          "value": "dérivés d’EPO [par ex. EPO-Fc, méthoxy polyéthylène glycol-époétine béta (CERA)] ",
-          "expanded": "dérivés d’EPO [par ex. EPO-Fc, méthoxy polyéthylène glycol-époétine béta (CERA)] "
+          "value": "EPO-based constructs [e.g. EPO-Fc, methoxy polyethylene glycol-epoetin beta (CERA)]"
         },
         {
-          "value": "agents mimétiques de l’EPO et leurs dérivés par ex. CNTO-530 et péginesatide",
-          "expanded": "agents mimétiques de l’EPO et leurs dérivés par ex. CNTO-530 et péginesatide"
+          "value": "EPO-mimetic agents and their constructs (e.g. CNTO-530, peginesatide)"
         },
         {
-          "value": "cobalt ",
-          "expanded": "cobalt "
+          "value": "Cobalt"
         },
         {
-          "value": "daprodustat (GSK1278863) ",
-          "expanded": "daprodustat (GSK1278863) "
+          "value": "Daprodustat (GSK1278863)"
         },
         {
-          "value": "IOX2",
-          "expanded": "IOX2"
+          "value": "IOX2"
         },
         {
-          "value": "molidustat (BAY 85-3934)",
-          "expanded": "molidustat (BAY 85-3934)"
+          "value": "Molidustat (BAY 85-3934)"
         },
         {
-          "value": "roxadustat (FG-4592)",
-          "expanded": "roxadustat (FG-4592)"
+          "value": "Roxadustat (FG-4592)"
         },
         {
-          "value": "vadadustat (AKB-6548) ",
-          "expanded": "vadadustat (AKB-6548) "
+          "value": "Vadadustat (AKB-6548)"
         },
         {
-          "value": "xénon",
-          "expanded": "xénon"
+          "value": "Xenon"
         },
         {
-          "value": "K-11706",
-          "expanded": "K-11706"
+          "value": "K-11706"
         },
         {
-          "value": "luspatercept",
-          "expanded": "luspatercept"
+          "value": "Luspatercept"
         },
         {
-          "value": "sotatercept",
-          "expanded": "sotatercept"
+          "value": "Sotatercept"
         },
         {
-          "value": "asialo-EPO",
-          "expanded": "asialo-EPO"
+          "value": "Asialo EPO"
         },
         {
-          "value": "EPO carbamylée (CEPO)",
-          "expanded": "EPO carbamylée (CEPO)"
+          "value": "Carbamylated EPO (CEPO)"
         },
         {
-          "value": "buséréline",
-          "expanded": "buséréline"
+          "value": "Buserelin "
         },
         {
-          "value": "desloréline",
-          "expanded": "desloréline"
+          "value": "Deslorelin"
         },
         {
-          "value": "gonadoréline",
-          "expanded": "gonadoréline"
+          "value": "Gonadorelin"
         },
         {
-          "value": "goséréline",
-          "expanded": "goséréline"
+          "value": "Goserelin"
         },
         {
-          "value": "leuproréline",
-          "expanded": "leuproréline"
+          "value": "Leuprorelin"
         },
         {
-          "value": "nafaréline",
-          "expanded": "nafaréline"
+          "value": "Nafarelin"
         },
         {
-          "value": "triptoréline",
-          "expanded": "triptoréline"
+          "value": "Triptorelin"
         },
         {
-          "value": "corticoréline",
-          "expanded": "corticoréline"
+          "value": "Corticorelin"
         },
         {
-          "value": "analogues de l’hormone de croissance, par ex. lonapegsomatropine, somapacitan et somatrogon;",
-          "expanded": "analogues de l’hormone de croissance, par ex. lonapegsomatropine, somapacitan et somatrogon;"
+          "value": "growth hormone analogues, e.g. lonapegsomatropin, somapacitan and somatrogon"
         },
         {
-          "value": "les fragments de l’hormone de croissance, par ex. AOD-9604 et hGH 176-191;",
-          "expanded": "les fragments de l’hormone de croissance, par ex. AOD-9604 et hGH 176-191;"
+          "value": "growth hormone fragments, e.g. AOD-9604 and hGH 176-191"
         },
         {
-          "value": "l’hormone de libération de l’hormone de croissance (GHRH) et ses analogues, (par ex. CJC- 1293, CJC-1295, sermoréline et tésamoréline);",
-          "expanded": "l’hormone de libération de l’hormone de croissance (GHRH) et ses analogues, (par ex. CJC- 1293, CJC-1295, sermoréline et tésamoréline);"
+          "value": "growth hormone-releasing hormone (GHRH) and its analogues (e.g. CJC-1293, CJC-1295, sermorelin and tesamorelin)"
         },
         {
-          "value": "les sécrétagogues de l’hormone de croissance (GHS) et leurs mimétiques [par ex. lénomoréline (ghréline), anamoréline, ipamoréline, macimoréline et tabimoréline];",
-          "expanded": "les sécrétagogues de l’hormone de croissance (GHS) et leurs mimétiques [par ex. lénomoréline (ghréline), anamoréline, ipamoréline, macimoréline et tabimoréline];"
+          "value": "growth hormone secretagogues (GHS) and their mimetics [e.g. lenomorelin (ghrelin), anamorelin, ipamorelin, macimorelin and tabimorelin]"
         },
         {
-          "value": "les peptides libérateurs de l’hormone de croissance (GHRPs), [par ex. alexamoréline, GHRP-1, GHRP-2 (pralmoréline), GHRP-3, GHRP-4, GHRP-5, GHRP-6 et examoréline (hexaréline)].",
-          "expanded": "les peptides libérateurs de l’hormone de croissance (GHRPs), [par ex. alexamoréline, GHRP-1, GHRP-2 (pralmoréline), GHRP-3, GHRP-4, GHRP-5, GHRP-6 et examoréline (hexaréline)]."
+          "value": "GH-releasing peptides (GHRPs) [e.g. alexamorelin, GHRP-1, GHRP-2 (pralmorelin), GHRP-3, GHRP-4, GHRP-5, GHRP-6, and examorelin (hexarelin)]"
         },
         {
-          "value": "Facteur de croissance dérivé des plaquettes (PDGF)",
-          "expanded": "Facteur de croissance dérivé des plaquettes (PDGF)"
+          "value": "Fibroblast growth factors (FGFs)"
         },
         {
-          "value": "Facteur de croissance endothélial vasculaire (VEGF)",
-          "expanded": "Facteur de croissance endothélial vasculaire (VEGF)"
+          "value": "Hepatocyte growth factor (HGF)"
         },
         {
-          "value": "Facteur de croissance analogue à l’insuline-1 (IGF-1) et ses analogues",
-          "expanded": "Facteur de croissance analogue à l’insuline-1 (IGF-1) et ses analogues"
+          "value": "Insulin-like growth factor 1 (IGF-1) and its analogues"
         },
         {
-          "value": "Facteur de croissance des hépatocytes (HGF)",
-          "expanded": "Facteur de croissance des hépatocytes (HGF)"
+          "value": "Mechano growth factors (MGFs)"
         },
         {
-          "value": "Facteurs de croissance fibroblastiques (FGF)",
-          "expanded": "Facteurs de croissance fibroblastiques (FGF)"
+          "value": "Platelet-derived growth factor (PDGF)"
         },
         {
-          "value": "Facteurs de croissance mécaniques (MGF)",
-          "expanded": "Facteurs de croissance mécaniques (MGF)"
+          "value": "Thymosin-β4 and its derivatives e.g. TB-500"
         },
         {
-          "value": "Thymosine-β4 et ses dérivés, par ex. TB-500\n\tet autres facteurs de croissance ou modulateur de facteur(s) de croissance influençant le muscle, le tendon ou le ligament, la synthèse/dégradation protéique, la vascularisation, l’utilisation de l’énergie, la capacité régénératrice ou le changement du type de fibre musculaire.",
-          "expanded": "Thymosine-β4 et ses dérivés, par ex. TB-500\n\tet autres facteurs de croissance ou modulateur de facteur(s) de croissance influençant le muscle, le tendon ou le ligament, la synthèse/dégradation protéique, la vascularisation, l’utilisation de l’énergie, la capacité régénératrice ou le changement du type de fibre musculaire."
+          "value": "Vascular endothelial growth factor (VEGF)\n\tand other growth factors or growth factor modulators affecting muscle, tendon or ligament protein synthesis/degradation, vascularisation, energy utilization, regenerative capacity or fibre type switching."
         }
       ]
     },
     {
-      "predicate": "BÊTA-2 AGONISTES",
+      "predicate": "BETA-2 AGONISTS",
       "entry": [
         {
-          "value": "arformotérol",
-          "expanded": "arformotérol"
+          "value": "Arformoterol"
         },
         {
-          "value": "fenotérol",
-          "expanded": "fenotérol"
+          "value": "Fenoterol"
         },
         {
-          "value": "formotérol",
-          "expanded": "formotérol"
+          "value": "Formoterol"
         },
         {
-          "value": "higénamine",
-          "expanded": "higénamine"
+          "value": "Higenamine"
         },
         {
-          "value": "indacatérol",
-          "expanded": "indacatérol"
+          "value": "Indacaterol"
         },
         {
-          "value": "lévosalbutamol",
-          "expanded": "lévosalbutamol"
+          "value": "Levosalbutamol"
         },
         {
-          "value": "olodatérol",
-          "expanded": "olodatérol"
+          "value": "Olodaterol"
         },
         {
-          "value": "procatérol",
-          "expanded": "procatérol"
+          "value": "Procaterol"
         },
         {
-          "value": "reprotérol",
-          "expanded": "reprotérol"
+          "value": "Reproterol"
         },
         {
-          "value": "salbutamol",
-          "expanded": "salbutamol"
+          "value": "Salbutamol"
         },
         {
-          "value": "salmétérol",
-          "expanded": "salmétérol"
+          "value": "Salmeterol"
         },
         {
-          "value": "terbutaline",
-          "expanded": "terbutaline"
+          "value": "Terbutaline"
         },
         {
-          "value": "trétoquinol (trimétoquinol)",
-          "expanded": "trétoquinol (trimétoquinol)"
+          "value": "Tretoquinol (trimetoquinol)"
         },
         {
-          "value": "tulobutérol",
-          "expanded": "tulobutérol"
+          "value": "Tulobuterol"
         },
         {
-          "value": "vilantérol",
-          "expanded": "vilantérol"
+          "value": "Vilanterol"
         },
         {
-          "value": "le salbutamol inhalé : maximum 1600 microgrammes par 24 heures répartis en doses individuelles, sans excéder 600 microgrammes par 8 heures à partir de n’importe quelle prise",
-          "expanded": "le salbutamol inhalé : maximum 1600 microgrammes par 24 heures répartis en doses individuelles, sans excéder 600 microgrammes par 8 heures à partir de n’importe quelle prise"
+          "value": "Inhaled salbutamol: maximum 1600 micrograms over 24 hours in divided doses not to exceed 600 micrograms over 8 hours starting from any dose"
         },
         {
-          "value": "le formotérol inhalé : dose maximale délivrée de 54 microgrammes par 24 heures",
-          "expanded": "le formotérol inhalé : dose maximale délivrée de 54 microgrammes par 24 heures"
+          "value": "Inhaled formoterol: maximum delivered dose of 54 micrograms over 24 hours"
         },
         {
-          "value": "le salmétérol inhalé : dose maximale 200 microgrammes par 24 heures",
-          "expanded": "le salmétérol inhalé : dose maximale 200 microgrammes par 24 heures"
+          "value": "Inhaled salmeterol: maximum 200 micrograms over 24 hours"
         },
         {
-          "value": "le vilantérol inhalé : dose maximale 25 microgrammes par 24 heures",
-          "expanded": "le vilantérol inhalé : dose maximale 25 microgrammes par 24 heures"
+          "value": "Inhaled vilanterol: maximum 25 micrograms over 24 hours"
         }
       ]
     },
     {
-      "predicate": "MODULATEURS HORMONAUX ET MÉTABOLIQUES",
+      "predicate": "HORMONE AND METABOLIC MODULATORS",
       "entry": [
         {
-          "value": "2-androsténol (5α-androst-2-ène-17-ol)",
-          "expanded": "2-androsténol (5α-androst-2-ène-17-ol)"
+          "value": "2-Androstenol  (5α-androst-2-en-17-ol)"
         },
         {
-          "value": "2-androsténone (5α-androst-2-ène-17-one)",
-          "expanded": "2-androsténone (5α-androst-2-ène-17-one)"
+          "value": "2-Androstenone (5α-androst-2-en-17-one)"
         },
         {
-          "value": "3-androsténol (5α-androst-3-ène-17-ol)",
-          "expanded": "3-androsténol (5α-androst-3-ène-17-ol)"
+          "value": "3-Androstenol  (5α-androst-3-en-17-ol)"
         },
         {
-          "value": "3-androsténone (5α-androst-3-ène-17-one)",
-          "expanded": "3-androsténone (5α-androst-3-ène-17-one)"
+          "value": "3-Androstenone (5α-androst-3-en-17-one)"
         },
         {
-          "value": "4-androstène-3,6,17 trione (6-oxo)",
-          "expanded": "4-androstène-3,6,17 trione (6-oxo)"
+          "value": "4-Androstene-3,6,17 trione (6-oxo)"
         },
         {
-          "value": "aminoglutéthimide",
-          "expanded": "aminoglutéthimide"
+          "value": "Aminoglutethimide"
         },
         {
-          "value": "anastrozole",
-          "expanded": "anastrozole"
+          "value": "Anastrozole"
         },
         {
-          "value": "androsta-1,4,6-triène-3,17-dione (androstatriènedione)",
-          "expanded": "androsta-1,4,6-triène-3,17-dione (androstatriènedione)"
+          "value": "Androsta-1,4,6-triene-3,17-dione (androstatrienedione)"
         },
         {
-          "value": "androsta-3,5-diène-7,17-dione (arimistane)",
-          "expanded": "androsta-3,5-diène-7,17-dione (arimistane)"
+          "value": "Androsta-3,5-diene-7,17-dione (arimistane)"
         },
         {
-          "value": "exémestane",
-          "expanded": "exémestane"
+          "value": "Exemestane"
         },
         {
-          "value": "formestane",
-          "expanded": "formestane"
+          "value": "Formestane"
         },
         {
-          "value": "létrozole",
-          "expanded": "létrozole"
+          "value": "Letrozole"
         },
         {
-          "value": "testolactone",
-          "expanded": "testolactone"
+          "value": "Testolactone"
         },
         {
-          "value": "bazédoxifène",
-          "expanded": "bazédoxifène"
+          "value": "Bazedoxifene"
         },
         {
-          "value": "clomifène",
-          "expanded": "clomifène"
+          "value": "Clomifene"
         },
         {
-          "value": "cyclofénil",
-          "expanded": "cyclofénil"
+          "value": "Cyclofenil"
         },
         {
-          "value": "fulvestrant",
-          "expanded": "fulvestrant"
+          "value": "Fulvestrant"
         },
         {
-          "value": "ospémifène",
-          "expanded": "ospémifène"
+          "value": "Ospemifene"
         },
         {
-          "value": "raloxifène",
-          "expanded": "raloxifène"
+          "value": "Raloxifene"
         },
         {
-          "value": "tamoxifène",
-          "expanded": "tamoxifène"
+          "value": "Tamoxifen"
         },
         {
-          "value": "torémifène",
-          "expanded": "torémifène"
+          "value": "Toremifene"
         },
         {
-          "value": "les anticorps neutralisant l’activine A",
-          "expanded": "les anticorps neutralisant l’activine A"
+          "value": "Activin A-neutralizing antibodies"
         },
         {
-          "value": "les anticorps anti-récepteurs IIB de l’activine (par ex. bimagrumab)",
-          "expanded": "les anticorps anti-récepteurs IIB de l’activine (par ex. bimagrumab)"
+          "value": "Activin receptor IIB competitors such as: \nDecoy activin receptors (e.g. ACE-031)\n"
         },
         {
-          "value": "les compétiteurs du récepteur IIB de l’activine par ex.\nrécepteurs leurres de l’activine (par ex. ACE-031)\n",
-          "expanded": "les compétiteurs du récepteur IIB de l’activine par ex.\nrécepteurs leurres de l’activine (par ex. ACE-031)\n"
+          "value": "Decoy activin receptors (e.g. ACE-031)"
         },
         {
-          "value": "récepteurs leurres de l’activine (par ex. ACE-031)",
-          "expanded": "récepteurs leurres de l’activine (par ex. ACE-031)"
+          "value": "Anti-activin receptor IIB antibodies (e.g. bimagrumab)"
         },
         {
-          "value": "les inhibiteurs de la myostatine tels que\nles agents réduisant ou supprimant l’expression de la myostatine\nles anticorps neutralisant la myostatine ou son précurseur (par ex. apitemograb, domagrozumab, landogrozumab, stamulumab)\nles protéines liant la myostatine (par ex. follistatine, propeptide de la myostatine)\n",
-          "expanded": "les inhibiteurs de la myostatine tels que\nles agents réduisant ou supprimant l’expression de la myostatine\nles anticorps neutralisant la myostatine ou son précurseur (par ex. apitemograb, domagrozumab, landogrozumab, stamulumab)\nles protéines liant la myostatine (par ex. follistatine, propeptide de la myostatine)\n"
+          "value": "Myostatin inhibitors such as:\nAgents reducing or ablating myostatin expression\nMyostatin-binding proteins (e.g. follistatin, myostatin propeptide)\nMyostatin- or precursor - neutralizing  antibodies (e.g. apitegromab, domagrozumab, landogrozumab, stamulumab)\n"
         },
         {
-          "value": "les agents réduisant ou supprimant l’expression de la myostatine",
-          "expanded": "les agents réduisant ou supprimant l’expression de la myostatine"
+          "value": "Agents reducing or ablating myostatin expression"
         },
         {
-          "value": "les anticorps neutralisant la myostatine ou son précurseur (par ex. apitemograb, domagrozumab, landogrozumab, stamulumab)",
-          "expanded": "les anticorps neutralisant la myostatine ou son précurseur (par ex. apitemograb, domagrozumab, landogrozumab, stamulumab)"
+          "value": "Myostatin-binding proteins (e.g. follistatin, myostatin propeptide)"
         },
         {
-          "value": "les protéines liant la myostatine (par ex. follistatine, propeptide de la myostatine)",
-          "expanded": "les protéines liant la myostatine (par ex. follistatine, propeptide de la myostatine)"
+          "value": "Myostatin- or precursor - neutralizing  antibodies (e.g. apitegromab, domagrozumab, landogrozumab, stamulumab)"
         }
       ]
     },
     {
-      "predicate": "DIURÉTIQUES ET AGENTS MASQUANTS",
+      "predicate": "DIURETICS AND MASKING AGENTS",
       "entry": [
         {
-          "value": "Desmopressine; probénécide; succédanés de plasma, par ex. l’administration intraveineuse d’albumine, dextran, hydroxyéthylamidon et mannitol.",
-          "expanded": "Desmopressine; probénécide; succédanés de plasma, par ex. l’administration intraveineuse d’albumine, dextran, hydroxyéthylamidon et mannitol."
+          "value": "Desmopressin; probenecid; plasma expanders, e.g. intravenous administration of albumin, dextran, hydroxyethyl starch and mannitol."
         },
         {
-          "value": "Acétazolamide; amiloride; bumétanide; canrénone; chlortalidone; acide étacrynique; furosémide; indapamide; métolazone; spironolactone; thiazides, par ex. bendrofluméthiazide, chlorothiazide et hydrochlorothiazide; torasémide; triamtérène et vaptans, par ex. tolvaptan.",
-          "expanded": "Acétazolamide; amiloride; bumétanide; canrénone; chlortalidone; acide étacrynique; furosémide; indapamide; métolazone; spironolactone; thiazides, par ex. bendrofluméthiazide, chlorothiazide et hydrochlorothiazide; torasémide; triamtérène et vaptans, par ex. tolvaptan."
+          "value": "Acetazolamide; amiloride; bumetanide; canrenone; chlortalidone; etacrynic acid; furosemide; indapamide; metolazone; spironolactone; thiazides, e.g. bendroflumethiazide, chlorothiazide and hydrochlorothiazide; torasemide; triamterene and vaptans, e.g. tolvaptan."
         },
         {
-          "value": "la drospirénone; le pamabrome; et l’administration topique ophtalmique des inhibiteurs de l’anhydrase carbonique (par ex. dorzolamide, brinzolamide)",
-          "expanded": "la drospirénone; le pamabrome; et l’administration topique ophtalmique des inhibiteurs de l’anhydrase carbonique (par ex. dorzolamide, brinzolamide)"
+          "value": "Drospirenone; pamabrom; and topical ophthalmic administration of carbonic anhydrase inhibitors (e.g. dorzolamide, brinzolamide)"
         },
         {
-          "value": "l’administration locale de la félypressine en anesthésie dentaire",
-          "expanded": "l’administration locale de la félypressine en anesthésie dentaire"
+          "value": "Local administration of felypressin in dental anaesthesia"
         }
       ]
     },
@@ -731,459 +560,349 @@
       "predicate": "STIMULANTS",
       "entry": [
         {
-          "value": "adrafinil",
-          "expanded": "adrafinil"
+          "value": "Adrafinil"
         },
         {
-          "value": "amfépramone",
-          "expanded": "amfépramone"
+          "value": "Amfepramone"
         },
         {
-          "value": "amfétamine",
-          "expanded": "amfétamine"
+          "value": "Amfetamine"
         },
         {
-          "value": "amfétaminil",
-          "expanded": "amfétaminil"
+          "value": "Amfetaminil"
         },
         {
-          "value": "amiphénazol",
-          "expanded": "amiphénazol"
+          "value": "Amiphenazole"
         },
         {
-          "value": "benfluorex",
-          "expanded": "benfluorex"
+          "value": "Benfluorex"
         },
         {
-          "value": "benzylpipérazine",
-          "expanded": "benzylpipérazine"
+          "value": "Benzylpiperazine"
         },
         {
-          "value": "bromantan",
-          "expanded": "bromantan"
+          "value": "Bromantan"
         },
         {
-          "value": "clobenzorex",
-          "expanded": "clobenzorex"
+          "value": "Clobenzorex"
         },
         {
-          "value": "cocaïne",
-          "expanded": "cocaïne"
+          "value": "Cocaine"
         },
         {
-          "value": "cropropamide",
-          "expanded": "cropropamide"
+          "value": "Cropropamide"
         },
         {
-          "value": "crotétamide",
-          "expanded": "crotétamide"
+          "value": "Crotetamide"
         },
         {
-          "value": "fencamine",
-          "expanded": "fencamine"
+          "value": "Fencamine"
         },
         {
-          "value": "fénétylline",
-          "expanded": "fénétylline"
+          "value": "Fenetylline"
         },
         {
-          "value": "fenfluramine",
-          "expanded": "fenfluramine"
+          "value": "Fenfluramine"
         },
         {
-          "value": "fenproporex",
-          "expanded": "fenproporex"
+          "value": "Fenproporex"
         },
         {
-          "value": "fonturacétam [4-phenylpiracétam (carphédon)]",
-          "expanded": "fonturacétam [4-phenylpiracétam (carphédon)]"
+          "value": "Fonturacetam [4-phenylpiracetam (carphedon)]"
         },
         {
-          "value": "furfénorex",
-          "expanded": "furfénorex"
+          "value": "Furfenorex"
         },
         {
-          "value": "lisdexamfétamine",
-          "expanded": "lisdexamfétamine"
+          "value": "Lisdexamfetamine"
         },
         {
-          "value": "méfénorex",
-          "expanded": "méfénorex"
+          "value": "Mefenorex"
         },
         {
-          "value": "méphentermine",
-          "expanded": "méphentermine"
+          "value": "Mephentermine"
         },
         {
-          "value": "mésocarb",
-          "expanded": "mésocarb"
+          "value": "Mesocarb"
         },
         {
-          "value": "métamfétamine (d-)",
-          "expanded": "métamfétamine (d-)"
+          "value": "Metamfetamine(d-)"
         },
         {
-          "value": "p-méthylamfétamine",
-          "expanded": "p-méthylamfétamine"
+          "value": "p-methylamfetamine"
         },
         {
-          "value": "modafinil",
-          "expanded": "modafinil"
+          "value": "Modafinil"
         },
         {
-          "value": "norfenfluramine",
-          "expanded": "norfenfluramine"
+          "value": "Norfenfluramine"
         },
         {
-          "value": "phendimétrazine",
-          "expanded": "phendimétrazine"
+          "value": "Phendimetrazine"
         },
         {
-          "value": "phentermine",
-          "expanded": "phentermine"
+          "value": "Phentermine"
         },
         {
-          "value": "prénylamine",
-          "expanded": "prénylamine"
+          "value": "Prenylamine"
         },
         {
-          "value": "prolintane",
-          "expanded": "prolintane"
+          "value": "Prolintane"
         },
         {
-          "value": "3-méthylhexan-2-amine (1,2-diméthylpentylamine)",
-          "expanded": "3-méthylhexan-2-amine (1,2-diméthylpentylamine)"
+          "value": "3-Methylhexan-2-amine (1,2-dimethylpentylamine)"
         },
         {
-          "value": "4-fluorométhylphénidate",
-          "expanded": "4-fluorométhylphénidate"
+          "value": "4-fluoromethylphenidate"
         },
         {
-          "value": "4-méthylhexan-2-amine (méthylhexaneamine, 1,3-diméthylamylamine, 1,3-DMAA)",
-          "expanded": "4-méthylhexan-2-amine (méthylhexaneamine, 1,3-diméthylamylamine, 1,3-DMAA)"
+          "value": "4-Methylhexan-2-amine (methylhexaneamine, 1,3-dimethylamylamine, 1,3 DMAA)"
         },
         {
-          "value": "4-méthylpentan-2-amine (1,3-diméthylbutylamine)",
-          "expanded": "4-méthylpentan-2-amine (1,3-diméthylbutylamine)"
+          "value": "4-Methylpentan-2-amine (1,3-dimethylbutylamine)"
         },
         {
-          "value": "5-méthylhexan-2-amine (1,4-diméthylpentylamine, 1,4-diméthylamylamine, 1,4-DMAA)",
-          "expanded": "5-méthylhexan-2-amine (1,4-diméthylpentylamine, 1,4-diméthylamylamine, 1,4-DMAA)"
+          "value": "5-Methylhexan-2-amine (1,4-dimethylpentylamine, 1,4-dimethylamylamine, 1,4-DMAA)"
         },
         {
-          "value": "benzfétamine",
-          "expanded": "benzfétamine"
+          "value": "Benzfetamine"
         },
         {
-          "value": "cathine**",
-          "expanded": "cathine**"
+          "value": "Cathine**"
         },
         {
-          "value": "cathinone et ses analogues, par ex. méphédrone, méthédrone et α- pyrrolidinovalerophénone",
-          "expanded": "cathinone et ses analogues, par ex. méphédrone, méthédrone et α- pyrrolidinovalerophénone"
+          "value": "Cathinone and its analogues, e.g. mephedrone, methedrone, and α - pyrrolidinovalerophenone"
         },
         {
-          "value": "dimétamfétamine (diméthylamphétamine)",
-          "expanded": "dimétamfétamine (diméthylamphétamine)"
+          "value": "Dimetamfetamine (dimethylamphetamine)"
         },
         {
-          "value": "éphédrine***",
-          "expanded": "éphédrine***"
+          "value": "Ephedrine***"
         },
         {
-          "value": "epinéphrine**** (adrénaline)",
-          "expanded": "epinéphrine**** (adrénaline)"
+          "value": "Epinephrine**** (adrenaline)"
         },
         {
-          "value": "étamivan",
-          "expanded": "étamivan"
+          "value": "Etamivan"
         },
         {
-          "value": "éthylphénidate",
-          "expanded": "éthylphénidate"
+          "value": "Ethylphenidate"
         },
         {
-          "value": "étilamfétamine",
-          "expanded": "étilamfétamine"
+          "value": "Etilamfetamine"
         },
         {
-          "value": "étiléfrine",
-          "expanded": "étiléfrine"
+          "value": "Etilefrine"
         },
         {
-          "value": "famprofazone",
-          "expanded": "famprofazone"
+          "value": "Famprofazone"
         },
         {
-          "value": "fenbutrazate",
-          "expanded": "fenbutrazate"
+          "value": "Fenbutrazate"
         },
         {
-          "value": "fencamfamine",
-          "expanded": "fencamfamine"
+          "value": "Fencamfamin"
         },
         {
-          "value": "heptaminol",
-          "expanded": "heptaminol"
+          "value": "Heptaminol"
         },
         {
-          "value": "hydrafinil (fluorénol)",
-          "expanded": "hydrafinil (fluorénol)"
+          "value": "Hydrafinil (fluorenol)"
         },
         {
-          "value": "hydroxyamphétamine (parahydroxyamphétamine)",
-          "expanded": "hydroxyamphétamine (parahydroxyamphétamine)"
+          "value": "Hydroxyamfetamine (parahydroxyamphetamine)"
         },
         {
-          "value": "isométheptène",
-          "expanded": "isométheptène"
+          "value": "Isometheptene"
         },
         {
-          "value": "levmétamfétamine",
-          "expanded": "levmétamfétamine"
+          "value": "Levmetamfetamine"
         },
         {
-          "value": "méclofénoxate",
-          "expanded": "méclofénoxate"
+          "value": "Meclofenoxate"
         },
         {
-          "value": "méthylènedioxy- méthamphétamine",
-          "expanded": "méthylènedioxy- méthamphétamine"
+          "value": "Methylenedioxymetham- phetamine"
         },
         {
-          "value": "méthyléphedrine***",
-          "expanded": "méthyléphedrine***"
+          "value": "Methylephedrine***"
         },
         {
-          "value": "méthylnaphthidate[((±)-méthyl-2-(naphthalèn-2-yl)-2-(pipéridin-2-yl)acétate]",
-          "expanded": "méthylnaphthidate[((±)-méthyl-2-(naphthalèn-2-yl)-2-(pipéridin-2-yl)acétate]"
+          "value": "Methylnaphthidate [((±)-methyl-2-(naphthalen-2-yl)-2-(piperidin-2-yl)acetate]"
         },
         {
-          "value": "méthylphénidate",
-          "expanded": "méthylphénidate"
+          "value": "Methylphenidate"
         },
         {
-          "value": "nicéthamide",
-          "expanded": "nicéthamide"
+          "value": "Nikethamide"
         },
         {
-          "value": "norfénefrine",
-          "expanded": "norfénefrine"
+          "value": "Norfenefrine"
         },
         {
-          "value": "octodrine (1,5-diméthylhexylamine)",
-          "expanded": "octodrine (1,5-diméthylhexylamine)"
+          "value": "Octodrine (1,5-dimethylhex- ylamine)"
         },
         {
-          "value": "octopamine",
-          "expanded": "octopamine"
+          "value": "Octopamine"
         },
         {
-          "value": "oxilofrine (méthylsynéphrine)",
-          "expanded": "oxilofrine (méthylsynéphrine)"
+          "value": "Oxilofrine (methylsynephrine)"
         },
         {
-          "value": "pémoline",
-          "expanded": "pémoline"
+          "value": "Pemoline"
         },
         {
-          "value": "pentétrazol",
-          "expanded": "pentétrazol"
+          "value": "Pentetrazol"
         },
         {
-          "value": "phénéthylamine et ses dérivés",
-          "expanded": "phénéthylamine et ses dérivés"
+          "value": "Phenethylamine and its derivatives"
         },
         {
-          "value": "phenmétrazine",
-          "expanded": "phenmétrazine"
+          "value": "Phenmetrazine"
         },
         {
-          "value": "phenprométhamine",
-          "expanded": "phenprométhamine"
+          "value": "Phenpromethamine"
         },
         {
-          "value": "propylhexédrine",
-          "expanded": "propylhexédrine"
+          "value": "Propylhexedrine"
         },
         {
-          "value": "pseudoéphédrine*****",
-          "expanded": "pseudoéphédrine*****"
+          "value": "Pseudoephedrine*****"
         },
         {
-          "value": "sélégiline",
-          "expanded": "sélégiline"
+          "value": "Selegiline"
         },
         {
-          "value": "sibutramine",
-          "expanded": "sibutramine"
+          "value": "Sibutramine"
         },
         {
-          "value": "solriamfétol",
-          "expanded": "solriamfétol"
+          "value": "Solriamfetol"
         },
         {
-          "value": "strychnine",
-          "expanded": "strychnine"
+          "value": "Strychnine"
         },
         {
-          "value": "tenamfétamine (méthylènedi- oxyamphétamine)",
-          "expanded": "tenamfétamine (méthylènedi- oxyamphétamine)"
+          "value": "Tenamfetamine (methylenedioxyamphet- amine)"
         },
         {
-          "value": "tuaminoheptane\n\tet autres substances possédant une structure chimique similaire ou un (des) effet(s) biologique(s) similaire(s).",
-          "expanded": "tuaminoheptane\n\tet autres substances possédant une structure chimique similaire ou un (des) effet(s) biologique(s) similaire(s)."
+          "value": "Tuaminoheptane"
         },
         {
-          "value": "Clonidine",
-          "expanded": "Clonidine"
+          "value": "Clonidine"
         },
         {
-          "value": "les dérivés de l’imidazole en application dermatologique, nasale, ophtalmique ou otique (par ex. brimonidine, clonazoline, fenoxazoline, indanazoline, naphazoline, oxymétazoline, tétryzoline, xylométazoline) et les stimulants figurant dans le Programme de surveillance 2023*",
-          "expanded": "les dérivés de l’imidazole en application dermatologique, nasale, ophtalmique ou otique (par ex. brimonidine, clonazoline, fenoxazoline, indanazoline, naphazoline, oxymétazoline, tétryzoline, xylométazoline) et les stimulants figurant dans le Programme de surveillance 2023*"
+          "value": "Imidazole derivatives for dermatological, nasal, ophthalmic or otic use (e.g. brimonidine, clonazoline, fenoxazoline, indanazoline, naphazoline, oxymetazoline, tetryzoline, xylometazoline) and those stimulants included in the 2023 Monitoring Program*"
         }
       ]
     },
     {
-      "predicate": "NARCOTIQUES",
+      "predicate": "NARCOTICS",
       "entry": [
         {
-          "value": "buprénorphine",
-          "expanded": "buprénorphine"
+          "value": "Buprenorphine"
         },
         {
-          "value": "dextromoramide",
-          "expanded": "dextromoramide"
+          "value": "Dextromoramide"
         },
         {
-          "value": "diamorphine (héroïne)",
-          "expanded": "diamorphine (héroïne)"
+          "value": "Diamorphine (heroin)"
         },
         {
-          "value": "fentanyl et ses dérivés",
-          "expanded": "fentanyl et ses dérivés"
+          "value": "Fentanyl and its derivatives"
         },
         {
-          "value": "hydromorphone",
-          "expanded": "hydromorphone"
+          "value": "Hydromorphone"
         },
         {
-          "value": "méthadone",
-          "expanded": "méthadone"
+          "value": "Methadone"
         },
         {
-          "value": "morphine",
-          "expanded": "morphine"
+          "value": "Morphine"
         },
         {
-          "value": "nicomorphine",
-          "expanded": "nicomorphine"
+          "value": "Nicomorphine"
         },
         {
-          "value": "oxycodone",
-          "expanded": "oxycodone"
+          "value": "Oxycodone"
         },
         {
-          "value": "oxymorphone",
-          "expanded": "oxymorphone"
+          "value": "Oxymorphone"
         },
         {
-          "value": "pentazocine",
-          "expanded": "pentazocine"
+          "value": "Pentazocine"
         },
         {
-          "value": "péthidine",
-          "expanded": "péthidine"
+          "value": "Pethidine"
         }
       ]
     },
     {
-      "predicate": "CANNABINOÏDES",
+      "predicate": "CANNABINOIDS",
       "entry": [
         {
-          "value": "Dans le cannabis (haschisch, marijuana) et produits de cannabis",
-          "expanded": "Dans le cannabis (haschisch, marijuana) et produits de cannabis"
+          "value": "In cannabis (hashish, marijuana) and cannabis products"
         },
         {
-          "value": "Cannabinoïdes synthétiques qui miment les effets du THC",
-          "expanded": "Cannabinoïdes synthétiques qui miment les effets du THC"
+          "value": "Synthetic cannabinoids that mimic the effects of THC"
         },
         {
-          "value": "Tetrahydrocannabinols (THCs) naturels ou synthétiques",
-          "expanded": "Tetrahydrocannabinols (THCs) naturels ou synthétiques"
+          "value": "Natural and synthetic tetrahydrocannabinols (THCs)"
         },
         {
-          "value": "Cannabidiol",
-          "expanded": "Cannabidiol"
+          "value": "Cannabidiol"
         }
       ]
     },
     {
-      "predicate": "GLUCOCORTICOÏDES",
+      "predicate": "GLUCOCORTICOIDS",
       "entry": [
         {
-          "value": "béclométasone",
-          "expanded": "béclométasone"
+          "value": "Beclometasone"
         },
         {
-          "value": "bétaméthasone",
-          "expanded": "bétaméthasone"
+          "value": "Betamethasone"
         },
         {
-          "value": "budésonide",
-          "expanded": "budésonide"
+          "value": "Budesonide"
         },
         {
-          "value": "ciclésonide",
-          "expanded": "ciclésonide"
+          "value": "Ciclesonide"
         },
         {
-          "value": "cortisone",
-          "expanded": "cortisone"
+          "value": "Cortisone"
         },
         {
-          "value": "deflazacort",
-          "expanded": "deflazacort"
+          "value": "Deflazacort"
         },
         {
-          "value": "dexaméthasone",
-          "expanded": "dexaméthasone"
+          "value": "Dexamethasone"
         },
         {
-          "value": "flucortolone",
-          "expanded": "flucortolone"
+          "value": "Flucortolone"
         },
         {
-          "value": "flunisolide",
-          "expanded": "flunisolide"
+          "value": "Flunisolide"
         },
         {
-          "value": "fluticasone",
-          "expanded": "fluticasone"
+          "value": "Fluticasone"
         },
         {
-          "value": "hydrocortisone",
-          "expanded": "hydrocortisone"
+          "value": "Hydrocortisone"
         },
         {
-          "value": "méthylprednisolone",
-          "expanded": "méthylprednisolone"
+          "value": "Methylprednisolone"
         },
         {
-          "value": "mométasone",
-          "expanded": "mométasone"
+          "value": "Mometasone"
         },
         {
-          "value": "prednisolone",
-          "expanded": "prednisolone"
+          "value": "Prednisolone"
         },
         {
-          "value": "prednisone",
-          "expanded": "prednisone"
+          "value": "Prednisone"
         },
         {
-          "value": "triamcinolone acétonide",
-          "expanded": "triamcinolone acétonide"
+          "value": "Triamcinolone acetonide"
         }
       ]
     }
