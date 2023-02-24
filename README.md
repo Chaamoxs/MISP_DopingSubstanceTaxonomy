@@ -40,4 +40,5 @@ If you want to try it out yourself, you need to have both BeautifulSoup & PyTaxo
 ## Authors
 
 DELUS Thibaut : https://github.com/WooZyhh
+
 JACOB Lucas : https://github.com/Chaamoxs
