@@ -29,7 +29,7 @@ In order to build the JSON file, we created a Python script which scrap the WADA
 
 Thanks to BeautifulSoup, a useful library that helps a lot when it comes to scrap HTLM documents, the script is able to get all the list of doping substances.
 
-The file is created with PyTaxonomies, a MISP library that create help to create valid JSON file according to the [MISP Platform](https://www.misp-project.org/taxonomies.html#_misp_taxonomies).
+The file is created with PyTaxonomies, a MISP library that help to create valid JSON file according to the [MISP Platform](https://www.misp-project.org/taxonomies.html#_misp_taxonomies).
 
 Finally, the script generates all predicates (doping categories) and the entries associated (the doping substances themselves).
 
